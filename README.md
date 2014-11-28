@@ -27,7 +27,7 @@ To compile you need:
 2. cabal-install for external haskell packages installation
    `sudo apt-get install cabal-install`
 
-3. `cabal update to fetch latest packages` 
+3. `cabal update` to fetch latest packages
 
 4. ConfigFile package, which can be locally installed
    `cabal install ConfigFile`
